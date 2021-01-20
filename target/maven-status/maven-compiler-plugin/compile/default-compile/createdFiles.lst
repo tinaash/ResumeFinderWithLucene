@@ -1,0 +1,7 @@
+com\kgisl\tech\lucene\indexer\PdfDocFileIndexer.class
+com\kgisl\tech\lucene\parser\DocFileParser.class
+com\kgisl\tech\lucene\parser\PdfFileParser.class
+com\kgisl\tech\lucene\preprocessor\ResumePreprocessor.class
+com\kgisl\tech\lucene\indexer\TextFileIndexer.class
+com\kgisl\tech\lucene\preprocessor\ResumePreprocessor$1.class
+com\kgisl\tech\lucene\search\ResumeMatcher.class
